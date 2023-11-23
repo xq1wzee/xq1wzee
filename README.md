@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xq1wzee
+- 👀 I’m interested in learning new technologies and AI
+- 🌱 I’m currently learning python, C#
